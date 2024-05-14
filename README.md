@@ -5,9 +5,12 @@
 ## Instructores
 
 - Jairo Toro - [@jtnovellis](https://github.com/jtnovellis)
+- Sillevon - [@sillevon](https://github.com/sillevon)
 
 ## Estudiantes
 
 <!-- Nombre de ejemplo: Utiliza el mismo formato -->
 
-- Carlos Rodríguez - [@carlos_rodriguez](https://github.com/carlos_rodriguez)
+- ...
+- ...
+- ...
