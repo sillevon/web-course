@@ -11,6 +11,8 @@
 
 <!-- Nombre de ejemplo: Utiliza el mismo formato -->
 
+
 - Julio Perez - [@julioperez7](https://github.com/julioperez7)
+- Ray Mendoza - [@raymendozar](https://github.com/raymendozar)
 - ...
 - ...
