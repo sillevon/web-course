@@ -1,0 +1,27 @@
+/* 
+Tipos de selectores
+
+Selectores de clase
+Selectores de Id
+Seletores de etiquetas
+
+*/
+
+div {
+  color: blueviolet;
+  background-color: brown;
+  margin-bottom: 5px;
+}
+
+.contenedor {
+  background-color: aqua;
+  padding: 20px 20px;
+}
+
+#seleccionado {
+  background-color: cornflowerblue;
+}
+
+.parrafo {
+  color: blueviolet;
+}

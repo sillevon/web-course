@@ -73,7 +73,7 @@ En esta tarea, crearás una página web que describa quién eres. La página deb
 
 1. Sube la nueva rama al repositorio remoto:
    ```bash
-   git push origin <nombre-de-tu-rama>
+   git push --set-upstream origin <nombre de la rama>
    ```
 
 ### Paso 7: Crear una Solicitud de Extracción (Pull Request)
